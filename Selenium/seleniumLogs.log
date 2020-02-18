@@ -1,0 +1,29 @@
+2020-02-12 12:33:15 INFO  TestListenerClass:14 - ========Test method1 has started
+2020-02-12 12:33:15 INFO  TestListenerClass:15 - Lassi
+2020-02-12 12:33:15 INFO  TestMethods:68 - Method 1
+2020-02-12 12:33:15 INFO  TestListenerClass:22 - ========Test method1 has PASSED successfully
+2020-02-12 12:33:15 INFO  TestListenerClass:23 - Lassi
+2020-02-12 12:33:15 INFO  TestListenerClass:14 - ========Test method2 has started
+2020-02-12 12:33:15 INFO  TestListenerClass:15 - Lassi
+2020-02-12 12:33:15 INFO  TestMethods:74 - Method 2
+2020-02-12 12:33:15 INFO  TestMethods:75 - Mallikarjuna
+2020-02-12 12:33:15 INFO  TestListenerClass:22 - ========Test method2 has PASSED successfully
+2020-02-12 12:33:15 INFO  TestListenerClass:23 - Lassi
+2020-02-12 12:33:15 INFO  TestListenerClass:14 - ========Test method3 has started
+2020-02-12 12:33:15 INFO  TestListenerClass:15 - Lassi
+2020-02-12 12:33:15 INFO  TestMethods:81 - Method 3
+2020-02-12 12:33:15 INFO  TestMethods:82 - Mallikarjuna
+2020-02-12 12:33:15 INFO  TestListenerClass:22 - ========Test method3 has PASSED successfully
+2020-02-12 12:33:15 INFO  TestListenerClass:23 - Lassi
+2020-02-12 12:33:15 INFO  TestListenerClass:14 - ========Test method4 has started
+2020-02-12 12:33:15 INFO  TestListenerClass:15 - Lassi
+2020-02-12 12:33:15 INFO  TestMethods:88 - Method 4
+2020-02-12 12:33:15 INFO  TestMethods:89 - Mallikarjuna
+2020-02-12 12:33:15 INFO  TestListenerClass:22 - ========Test method4 has PASSED successfully
+2020-02-12 12:33:15 INFO  TestListenerClass:23 - Lassi
+2020-02-12 12:33:15 INFO  TestListenerClass:14 - ========Test method5 has started
+2020-02-12 12:33:15 INFO  TestListenerClass:15 - Lassi
+2020-02-12 12:33:15 INFO  TestMethods:95 - Method 5
+2020-02-12 12:33:15 INFO  TestMethods:96 - Mallikarjuna
+2020-02-12 12:33:15 INFO  TestListenerClass:22 - ========Test method5 has PASSED successfully
+2020-02-12 12:33:15 INFO  TestListenerClass:23 - Lassi

@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -20,7 +21,10 @@ public class HorizontalScroll
 	
 	public static void main(String[] args) throws InterruptedException, IOException, AWTException 
 	{
+		
 		WebDriver driver = new FirefoxDriver();
+		Dimension d = new Dimension(333, 333);
+		driver.manage().window().setSize(d);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get("file:///C:/Users/mallikar/Desktop/Horizontal_Scroll.html");
